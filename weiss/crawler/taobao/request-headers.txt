@@ -1,0 +1,10 @@
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cache-control: max-age=0
+cookie: thw=cn; cna=S77bFrM5BRoCAdpLI/77ePfz; v=0; cookie2=1dd0461d3721efe57f61b82d7a54ec7d; t=632956b36cdd75952e3a2f738e255e81; _tb_token_=eb33b3e38e3e3; _samesite_flag_=true; sgcookie=Dw0krn70alXbnIg3Ac3jv; uc3=lg2=UIHiLt3xD8xYTw%3D%3D&vt3=F8dBxd3zCJoIPTJAB50%3D&id2=VAMVcR9QW68%3D&nk2=EFeHSeB5NMg%3D; csg=a34f1b71; lgc=siwei666; dnk=siwei666; skt=f6d471936fe37b1f; existShop=MTU4MjY4MjA4Nw%3D%3D; uc4=id4=0%40VhpIhGCtnHzB5e%2BKjtRV4B2qkg%3D%3D&nk4=0%40Eo4zlDtRKl8IdzmV5KGvb2kr9Q%3D%3D; tracknick=siwei666; _cc_=U%2BGCWk%2F7og%3D%3D; tg=0; tfstk=cdfFBA6NxQj_GSwNnIOyVk9k2QbdZp6CFA8DKtAvB-mqde9hihiJSz09b3xYspf..; mt=ci=101_1; enc=dAhyJM2%2ByLNfWebGF84a0nyksLeQr2gvBjYROfwPmQ3TxIQANdIlmQNKIyXLWt%2BLhTXsyJLzgaRT699ukbhU7A%3D%3D; hng=CN%7Czh-CN%7CCNY%7C156; _m_h5_tk=9b555e14d0c05eccbfa4347d87e65917_1583149063264; _m_h5_tk_enc=224e7788ae616ce5882b70e09cb807af; l=dBa9iIvuQiTp7intKOCw54Agf47TRIRYBukljHs9i_5Ir_Tsw0_OoJtNYE96DjWfGdLB4yMnk_e9-etXsNa0mGM8sxAJgxDc.; isg=BMfHIwMLVQNS89GGRjIbGLwuVn2RzJuu9cIAUZm0ztZ9COfKoZ2h_oPCq8hWuXMm; uc1=cookie14=UoTUOaxgfQEm9w%3D%3D
+sec-fetch-mode: navigate
+sec-fetch-site: none
+sec-fetch-user: ?1
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36

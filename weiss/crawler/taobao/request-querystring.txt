@@ -1,0 +1,16 @@
+jsv: 2.5.7
+appKey: 12574478
+t: 1583118476875
+sign: b5ebcb29d99316edefb5517fceee4774
+api: mtop.taobao.detail.getdetail
+v: 6.0
+isSec: 0
+ecode: 0
+AntiFlood: true
+AntiCreep: true
+H5Request: true
+ttid: 2018@taobao_h5_9.9.9
+type: jsonp
+dataType: jsonp
+callback: mtopjsonp1
+data: {"id":"602875751602","abtest":"11","rn":"3103d164d5575e90e8555287333402e4","sid":"16aa5708368a9518349479a773c78960","itemNumId":"602875751602","itemId":"602875751602","exParams":"{\"id\":\"602875751602\",\"abtest\":\"11\",\"rn\":\"3103d164d5575e90e8555287333402e4\",\"sid\":\"16aa5708368a9518349479a773c78960\"}","detail_v":"8.0.0","utdid":"1"}

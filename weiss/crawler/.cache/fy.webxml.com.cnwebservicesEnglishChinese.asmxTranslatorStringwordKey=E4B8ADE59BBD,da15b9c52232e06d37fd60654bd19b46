@@ -1,0 +1,21 @@
+status: 200
+cache-control: private, max-age=0
+content-type: text/xml; charset=utf-8
+vary: Accept-Encoding
+server: Microsoft-IIS/7.5
+x-aspnet-version: 2.0.50727
+x-powered-by: ASP.NET
+date: Mon, 02 Mar 2020 07:35:21 GMT
+content-length: 325
+-content-encoding: gzip
+content-location: http://fy.webxml.com.cn/webservices/EnglishChinese.asmx/TranslatorString?wordKey=%E4%B8%AD%E5%9B%BD
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://WebXml.com.cn/">
+  <string>中国</string>
+  <string>zhōng guó</string>
+  <string />
+  <string>China；Chinese</string>
+  <string />
+</ArrayOfString>
